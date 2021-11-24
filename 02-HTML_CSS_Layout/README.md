@@ -30,7 +30,7 @@
     * Look at the example on the screen, and eyeball the padding and/or margins and positioning of the text.
   * `h2`
     * The font size is `24px`
-  * Make the container have a width of 1024 pixels, and center it. You do this using `margin: 0 auto;`.
+  * Make the container have a width of 1024 pixels, and center i git stut. You do this using `margin: 0 auto;`.
   * Make `#main-bio`, `#contact-info`, `#bio-image` all `float: left`.
   * Make the `#bio-image` have a width of 200 pixels.
   * Be sure to include `alt` text in all images
